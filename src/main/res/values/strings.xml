@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">multiActivity</string>
+    <string name="company">Rareprob Solutions !</string>
+    <string name="tagline">One Step Close Towards Success ! Hurray!!!</string>
+    <string name="accept_terms">By signing up you accept the Terms of service and Privacy Policy</string>
+    <string name="existing_user">Already have an account? Log in</string>
+    <string name="new_user">Dont have an account ? Log in</string>
+</resources>

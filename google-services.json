@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "719385888433",
+    "project_id": "mamta-first-project",
+    "storage_bucket": "mamta-first-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:719385888433:android:583f0ee955598f4e9a0490",
+        "android_client_info": {
+          "package_name": "com.example.multiactivity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "719385888433-taobfei5ustvhpfnh28bfavf45gtp2fg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLgW5Jp7RtBtjFOakKl1mkTCgybPMJlXA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "719385888433-taobfei5ustvhpfnh28bfavf45gtp2fg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
